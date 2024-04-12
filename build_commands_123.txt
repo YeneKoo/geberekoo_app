@@ -1,0 +1,2 @@
+internal android apk build: eas build -p android --profile preview
+playstore build: eas build --platform android    
